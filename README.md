@@ -9,5 +9,4 @@ things working
 
 things to be fixed
 - camera dts entries
-- display wake up issue
 - fingerprint sensor dts and drivers
