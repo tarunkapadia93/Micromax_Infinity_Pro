@@ -9,6 +9,7 @@ things working
 - fingerprint sensor dts and drivers
 
 things to be fixed
+- audio
 - camera 
   -mipi_switch_gpio_oe
   -mipi_switch_gpio_sel
